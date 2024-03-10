@@ -1,1 +1,1 @@
-Print("This is for test the env")
+print("This is for test the env")
