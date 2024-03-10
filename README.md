@@ -1,1 +1,1 @@
-# ntc-faq-QA
+# ntc-faq-QA - LLM model
